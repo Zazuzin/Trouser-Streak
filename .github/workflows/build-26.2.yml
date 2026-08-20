@@ -3,7 +3,7 @@ name: Build Minecraft 26.2
 on:
   push:
     branches:
-      - agent/minecraft-26.2
+      - main
   workflow_dispatch:
 
 permissions:
