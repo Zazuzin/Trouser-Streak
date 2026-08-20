@@ -1,3 +1,6 @@
+
+**This is a fork of Trousers Streak! This is not Official**
+
 [![Github All Releases](https://img.shields.io/github/downloads/etianl/Trouser-Streak/total.svg)]()
 
 <div align="center">
