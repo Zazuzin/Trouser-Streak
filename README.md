@@ -3,6 +3,8 @@
 
 Credit: https://github.com/etianl
 
+My Discord: https://discord.gg/RkytB7fnF7
+
 [![Github All Releases](https://img.shields.io/github/downloads/etianl/Trouser-Streak/total.svg)]()
 
 <div align="center">
