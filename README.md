@@ -1,5 +1,5 @@
 
-**This is a fork of Trousers Streak! This is not Official, For the official releases see https://github.com/etianl/Trouser-Streak**
+**TROUSER STREAK HAS BEEN UPDATED TO 26.2 https://github.com/etianl/Trouser-Streak**
 
 Credit: https://github.com/etianl
 
